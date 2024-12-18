@@ -2,8 +2,8 @@
 - 👋 BECOME AN INTERN HERE:https://github.com/TheProxyWarsCompany/Become-an-Intern
 - 👀 HEAD DOWN TO PROXTOPIA TO GET A TON OF LINKS https://github.com/TheProxyWarsCompany/Proxtopia
 - 🔗 LEARN HOW TO MAKE LINKS https://github.com/TheProxyWarsCompany/Make-proxy-links
-- 💞️ I’m looking to collaborate on website making 
-- 📫 How to reach me github chat 
+- 😁 BE FUTURED UP HERE IF YOU ARE AN INTERN https://github.com/TheProxyWarsCompany/interns
+-📫 How to reach me github chat 
 - ⚡ Im working on a new proxy site 
 
 <!---
