@@ -1,4 +1,4 @@
-- YOU CAN REQUEST LINKS IN LINK REQUESTS FORM!!
+- YOU CAN REQUEST LINKS IN LINK REQUESTS FORM:https://github.com/TheProxyWarsCompany/Link-Requests-
 - 👋 Hi, I’m @TheProxyWarsCompany
 - 👀 I’m interested in proxy types 
 - 🌱 I’m currently learning coding 
