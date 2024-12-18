@@ -1,5 +1,5 @@
 - YOU CAN REQUEST LINKS IN LINK REQUESTS FORM:https://github.com/TheProxyWarsCompany/Link-Requests-
-- 👋 Hi, I’m @TheProxyWarsCompany
+- 👋 BECOME AN INTERN HERE:https://github.com/TheProxyWarsCompany/Become-an-Intern
 - 👀 I’m interested in proxy types 
 - 🌱 I’m currently learning coding 
 - 💞️ I’m looking to collaborate on website making 
