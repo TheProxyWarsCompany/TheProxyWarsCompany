@@ -1,3 +1,4 @@
+- YOU CAN REQUEST LINKS IN LINK REQUESTS FORM!!
 - 👋 Hi, I’m @TheProxyWarsCompany
 - 👀 I’m interested in proxy types 
 - 🌱 I’m currently learning coding 
