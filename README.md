@@ -5,7 +5,7 @@
 - 🔗 LEARN HOW TO MAKE LINKS https://github.com/TheProxyWarsCompany/Make-proxy-links
 - 😁 BE FUTURED IN THIS RESPIRATORY LINK IF YOU ARE AN INTERN https://github.com/TheProxyWarsCompany/interns
 - 🖥 CHECK OUT THIS KASM BROWSER FOR WORK OR SCHOOL https://github.com/TheProxyWarsCompany/KasmVNC-Cloud-Browser
-- 🧓WORKING ON THE HOCHIMIHN STORY MADE BY SEAN!!
+- 🧓WORKING ON THE HOCHIMIHN STORY MADE BY SEAN MY PARTNER!!
 <!---
 TheProxyWarsCompany/TheProxyWarsCompany is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
