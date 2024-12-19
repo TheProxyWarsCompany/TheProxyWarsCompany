@@ -3,7 +3,7 @@
 - 👋 BECOME AN INTERN HERE: https://github.com/TheProxyWarsCompany/Become-an-Intern
 - 👀 HEAD DOWN TO PROXTOPIA TO GET A TON OF LINKS https://github.com/TheProxyWarsCompany/Proxtopia
 - 🔗 LEARN HOW TO MAKE LINKS https://github.com/TheProxyWarsCompany/Make-proxy-links
-- 😁 BE FUTURED IN THE LINK IF YOU ARE AN INTERN https://github.com/TheProxyWarsCompany/interns
+- 😁 BE FUTURED IN THIS RESPIRATORY LINK IF YOU ARE AN INTERN https://github.com/TheProxyWarsCompany/interns
 - 🖥 CHECK OUT THIS KASM BROWSER FOR WORK OR SCHOOL https://github.com/TheProxyWarsCompany/KasmVNC-Cloud-Browser
 <!---
 TheProxyWarsCompany/TheProxyWarsCompany is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
