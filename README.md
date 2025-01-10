@@ -1,5 +1,5 @@
 - 🥳READ THESE MENTIONS TO HAVE A LOT OF FUN!!
-  
+- ⚫ New Proxy Void Network https://emptiness.freedns.rocks/
 - 🚨TELL ME IF THERE IS ANYTHING THAT NEEDS TO BE CHANGED https://github.com/orgs/community/discussions/147418
 - 👍YOU CAN REQUEST LINKS IN LINK REQUESTS FORM: https://github.com/TheProxyWarsCompany/Link-Requests-
 - 👋 BECOME AN INTERN HERE: https://github.com/TheProxyWarsCompany/Become-an-Intern
